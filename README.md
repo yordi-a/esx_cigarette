@@ -1,2 +1,1 @@
-# esx_cigarette
- 
+Yordi - Çakmaksız içilmeyen sigara.
